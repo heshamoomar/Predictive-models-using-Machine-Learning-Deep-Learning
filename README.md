@@ -1,2 +1,2 @@
 # Flood-Earthquake-Models
-Graduation Project
+Models for Graduation Project
